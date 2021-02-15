@@ -2,6 +2,9 @@
 
 <!--
 **ankit1576/ankit1576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+##  Wakatime Weekly Stats
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->

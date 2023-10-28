@@ -5,7 +5,7 @@
 -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

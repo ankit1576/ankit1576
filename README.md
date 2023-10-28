@@ -5,7 +5,7 @@
 -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP">
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

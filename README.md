@@ -5,7 +5,6 @@
 -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,8 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-##  Wakatime Weekly Stats
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">

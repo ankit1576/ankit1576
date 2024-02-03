@@ -7,7 +7,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h1 align="center">Hi 👋, I'm Ankit Pandey</h1>
-<h3 align="center">Current, Doing MCA from National Institute Of Technology Raipur I am Paissonate learner.</h3>
+<h3 align="center">Currently, Doing MCA from National Institute Of Technology Raipur I am Paissonate learner.</h3>
 
 - 📫 How to reach me **rajanpandey1576@gmail.com**
 

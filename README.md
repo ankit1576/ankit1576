@@ -3,6 +3,8 @@
 <!--
 **ankit1576/ankit1576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+![GSSoC24_Stats](https://github.com/user-attachments/assets/bb93481b-03e5-44cb-95b4-78d0946cb071)
+
 [![An image of @ankit1576's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankit1576)](https://holopin.io/@ankit1576)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
